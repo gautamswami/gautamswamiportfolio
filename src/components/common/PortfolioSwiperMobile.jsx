@@ -74,7 +74,7 @@ const PortfolioSwiperMobile = () => {
                   <div className="col-xxl-4 col-xl-4 col-lg-4">
                     <div className="sec-text">
                       <p>
-                      I'm an enterprising web developer who kicked off my
+                      I&apos;m an enterprising web developer who kicked off my
                         career journey while still in college. The pandemic
                         threw us all some curveballs, but I saw it as an
                         opportunity to dive headfirst into full-time employment,
