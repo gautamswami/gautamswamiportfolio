@@ -60,8 +60,8 @@ const PortfolioSwiperMobile = () => {
                   <div className="col-xxl-8 col-xxl-8 col-lg-8">
                     <div className="portfolio__about-left">
                       <h2 className="sec-title">
-                        I craft wonderful <span>digital experiences</span> for
-                        brands
+                        From last 3 years , I&apos;m crafting complex{" "}
+                        <span> applications</span> for mobile and web.
                       </h2>
                       <Image
                         priority
@@ -74,7 +74,7 @@ const PortfolioSwiperMobile = () => {
                   <div className="col-xxl-4 col-xl-4 col-lg-4">
                     <div className="sec-text">
                       <p>
-                      I&apos;m an enterprising web developer who kicked off my
+                        I&apos;m an enterprising web developer who kicked off my
                         career journey while still in college. The pandemic
                         threw us all some curveballs, but I saw it as an
                         opportunity to dive headfirst into full-time employment,
@@ -99,9 +99,7 @@ const PortfolioSwiperMobile = () => {
                 </div>
 
                 <div className="about-row">
-                  <div className="row">
-                    
-                  </div>
+                  <div className="row"></div>
                 </div>
               </div>
             </section>
@@ -370,7 +368,7 @@ const PortfolioSwiperMobile = () => {
               <div className="container">
                 <div className="row">
                   <div className="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                  <h2 className="sec-title"> TECH I WORK ON.</h2>
+                    <h2 className="sec-title"> TECH I WORK ON.</h2>
                   </div>
                   <div className="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                     <div className="sec-text">
@@ -437,7 +435,7 @@ const PortfolioSwiperMobile = () => {
                 <div className="row">
                   <div className="col-xxl-12">
                     <div className="ps-btn">
-                    <a href="tel:+917742908001">Call Now</a>
+                      <a href="tel:+917742908001">Call Now</a>
                     </div>
                   </div>
                 </div>
@@ -475,10 +473,10 @@ const PortfolioSwiperMobile = () => {
                         </h3>
                         <ul>
                           <li>
-                          <a href="tel:+917742908001">+917742908001</a>
+                            <a href="tel:+917742908001">+917742908001</a>
                           </li>
                           <li>
-                          <a href="mailto:gautams5974@gmail.com">
+                            <a href="mailto:gautams5974@gmail.com">
                               gautams5974@gmail.com
                             </a>
                           </li>
@@ -508,13 +506,14 @@ const PortfolioSwiperMobile = () => {
                     </div>
                     <div className="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                       <div className="contact__form">
-                      <div className="pf-contact">
+                        <div className="pf-contact">
                           <h3>
                             <a
                               href="https://www.linkedin.com/in/gautamswami/"
                               target="_blank"
                             >
-                              Linkedin                            </a>
+                              Linkedin{" "}
+                            </a>
                           </h3>
                         </div>
                       </div>
@@ -525,7 +524,7 @@ const PortfolioSwiperMobile = () => {
               {/* Contact area end  */}
 
               {/* Footer area start  */}
-         
+
               {/* Footer area end */}
             </section>
           </div>
