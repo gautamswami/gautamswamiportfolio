@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Stage />
         <Reel />
-        <SeoCopy />
         <Footer />
+        <SeoCopy />
       </main>
       <CalendlyModal />
     </SmoothScroll>

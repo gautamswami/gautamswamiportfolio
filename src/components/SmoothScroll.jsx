@@ -37,6 +37,8 @@ export default function SmoothScroll({ children }) {
         smoothWheel: true,
         syncTouch: false,
         anchors: true,
+        // Let overflow areas (e.g. SEO terminal) keep native wheel/touch scroll.
+        allowNestedScroll: true,
       })
 
       lenis.on("scroll", ScrollTrigger.update)
